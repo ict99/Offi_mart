@@ -1,0 +1,14 @@
+<%@page isELIgnored="false" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<html>
+<body bgcolor="lavender">
+<h1><center> Online Office Mart </center></h1>
+<center>					
+		
+
+
+
+</center>
+	
+</body>
+</html>
